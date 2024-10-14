@@ -17,3 +17,6 @@ VALUES
 (5, 'September', 1200000, 1000000, 'Press events', 'Variety and interview shows');
 
 
+
+
+SELECT * from LovelyRunnerActrorsData 
