@@ -6,3 +6,6 @@
 ## Data Exploration
 -[WaiyatSamsungWatchActivity](ipynb/WaiyatSamsungWatchActivity.ipynb)
 ![Waiyat Calories Activity](img/WaiyatSamsungWatchActivity.gif)
+
+-[Lovely Runner Actors Popularity](ipynb/LovelyRunnerActorsPopularity.ipynb)
+![LovelyRunnerActorsPopularity](img/LovelyRunnerActorsPopularity.gif)
