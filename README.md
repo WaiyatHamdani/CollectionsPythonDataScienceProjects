@@ -9,3 +9,8 @@
 
 -[Lovely Runner Actors Popularity](ipynb/LovelyRunnerActorsPopularity.ipynb)
 ![LovelyRunnerActorsPopularity](img/LovelyRunnerActorsPopularity.gif)
+
+-[AespaWinterTourSeasonData ](ipynb/AespaTourWinterSeason.ipynb)
+![AespaData1](img/aespatourdata1.jpg)
+![AespaData2](img/aespatourdata2.jpg)
+![AespaData3](img/aespatourdata3.jpg)
